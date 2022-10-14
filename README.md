@@ -6,7 +6,7 @@
 * [Setup](#setup)
 
 ## General info
-This project is a simple Web Autoamtion with Selenium
+This project is a simple Web Autoamtion with Selenium of this website <a href="http://automationpractice.com/index.php/" target="_blank">AutomationPractice</a>
 	
 ## Technologies
 Project is created with:
